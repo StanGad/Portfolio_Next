@@ -40,11 +40,12 @@ Ce projet est déployé grâce à GitHub Pages. Pour déployer votre propre vers
 
 ## Technologies utilisées
 
-- **React** : Bibliothèque JavaScript pour la création d'interfaces utilisateur.
-- **React Scripts** : Scripts pour le développement et la construction du projet.
-- **GitHub Pages** : Plateforme d'hébergement.
+- [**React**](https://reactjs.org/) : Bibliothèque JavaScript pour la création d'interfaces utilisateur.
+- [**React Scripts**](https://www.npmjs.com/package/react-scripts) : Scripts pour le développement et la construction du projet.
+- [**GitHub Pages**](https://pages.github.com/) : Plateforme d'hébergement.
+
 
 ## Auteur
 
-Créé par **Stanislas Gadeceau**.
+Créé par **Stanislas Gadeceau**.  
 N'hésitez pas à utiliser ce modèle pour votre propre portfolio et à me contacter pour toute question ou suggestion.

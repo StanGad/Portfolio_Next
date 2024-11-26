@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio_StanislasGADECEAU/static/css/main.048c80b1.css",
-    "main.js": "/Portfolio_StanislasGADECEAU/static/js/main.9d15ee8c.js",
+    "main.js": "/Portfolio_StanislasGADECEAU/static/js/main.a672f84c.js",
     "static/media/dessinStanSVG.png": "/Portfolio_StanislasGADECEAU/static/media/dessinStanSVG.d0febce54124733869b8.png",
     "index.html": "/Portfolio_StanislasGADECEAU/index.html",
     "main.048c80b1.css.map": "/Portfolio_StanislasGADECEAU/static/css/main.048c80b1.css.map",
-    "main.9d15ee8c.js.map": "/Portfolio_StanislasGADECEAU/static/js/main.9d15ee8c.js.map"
+    "main.a672f84c.js.map": "/Portfolio_StanislasGADECEAU/static/js/main.a672f84c.js.map"
   },
   "entrypoints": [
     "static/css/main.048c80b1.css",
-    "static/js/main.9d15ee8c.js"
+    "static/js/main.a672f84c.js"
   ]
 }

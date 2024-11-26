@@ -58,6 +58,30 @@ const projects = [
   },
 ]
 
+const experiences = [
+  {
+    name: ' Ingénieur Projet Industriel - Greentech',
+    dates: 'Avril 2024 - Aout 2024 (5 mois)',
+    location: 'FIND CLIMATE - Nanterre',
+    description:
+      'Gestion opérationnelle, coordination d’équipes, rédaction de processus et suivi des installations des Start-ups, modélisation 3D et création de visuels.',
+  },
+  {
+    name: 'Chef Scout - Scout Unitaire de France',
+    dates: ' Aout 2021 - Aujourd’hui (3 ans)',
+    location: 'Louveciennes',
+    description:
+      'Chef de Clan (17-25 ans). Chef assistant à la Troupe (12-17 ans). Formations : CEPE1, CEPCC (Camp Ecole Préparatoire)',
+  },
+  {
+    name: 'Président d’association sportive et Responsable évènementiel au BDE',
+    dates: 'Juin 2022 - Aout 2023',
+    location: 'La Defense',
+    description:
+      ' Recrutements, gestion de 80+ membres, d’un bureau et de budgets. Organisation d’évènements allant jusqu’à 2500 participants.',
+  },
+]
+
 const skills = [
   'CAO/Modelisation 3D',
   'Kicad',
@@ -84,4 +108,4 @@ const contact = {
   email: 'stanislasgadeceau@hotmail.com',
 }
 
-export { header, about, projects, skills, softskills, contact }
+export { header, about, projects, skills, softskills, contact, experiences }
